@@ -1,0 +1,82 @@
+.faci{
+     width:100%;
+     height:460px;
+     display:flex;
+     margin-top: 80px;
+}
+.Ftxt{
+     width:40%;
+     height:430px;
+     background-color: rgb(21, 23, 23);
+     padding:15px;
+}
+.t5{
+     color:white;
+     font-size: 40px;
+     line-height:60px;
+}
+.btn3{
+     margin-top:80px;
+}
+.btn3 input{
+     width:150px;
+     height:60px;
+     background-color: #df4566;
+     color:white;
+     border: none;
+     border-radius: 50px;
+     padding:7px;
+     cursor: pointer;
+}
+.t6{
+     color:white;
+}
+.separateIcons{
+     width:60%;
+     height:450px;
+}
+.boxes{
+     display:block;
+}
+.box1{
+     text-align: center;
+     align-items: center;
+     justify-content: center;
+     width:100%;
+     height:220px;
+     background-color: rgb(21, 23, 23);
+     display:flex;
+     margin-bottom:5px;
+}
+.box_border{
+     padding-top:60px;
+     font-size: 20px;
+     border-radius: 10px;
+     width:23%;
+     height:200px;
+     background-color: white;
+     margin:7px;
+}
+.box2{
+     text-align: center;
+     align-items: center;
+     justify-content: center;
+     margin-top:8px;
+     width:100%;
+     height:200px;
+     background-color: rgb(21, 23, 23);
+     display:flex;
+}
+.box_border2{
+     padding-top:60px;
+     font-size: 20px;
+     border-radius: 10px;
+     width:23%;
+     height:200px;
+     background-color: white;
+     margin:7px;
+}
+.icnss{
+     font-size: 60px;
+     color:#df4566;
+}

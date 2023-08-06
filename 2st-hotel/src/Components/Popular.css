@@ -1,0 +1,66 @@
+.heading{
+    color:white;
+    font-size: 45px;
+    margin-top:40px;
+    font-weight: 400;
+    margin-top: 40px;
+}
+.btn2{
+    margin-top: 30px;
+    text-align: right;
+    justify-content: center;
+    width:100%;
+    height:38px;
+}
+.btn2 input{
+    cursor:pointer;
+    color:white;
+    border:none;
+    width:9%;
+    height:40px;
+    padding:5px;
+    background-color: #ff3d84dc;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius:20px;
+}
+.room_img{
+    display:flex;
+    width:100%;
+    height:500px;
+    margin-top: 40px;
+}
+.rooms{
+    width:33%;
+    height:450px;
+    margin:20px;
+    border-radius: 10px;
+    background-color: white;
+    background-size: cover;
+}
+.rooms img{
+    width:392px;
+    height:300px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.t4{
+   margin-top: 35px;
+   font-size: 30px;
+   padding-left:20px;
+   padding-right:20px;
+   font-weight:400;    
+}
+p1{
+    padding-left:20px;
+}
+p2{
+    font-size: 20px;
+}
+.icn{
+    color:yellow;
+}
+.icnn{
+    color: darkgray;
+}
