@@ -1,0 +1,57 @@
+.Homes2{
+    width:100%;
+    height:600px;
+    display:flex;
+    background:linear-gradient(#e9eced, #e4e9ed);
+    border-radius: 20px;
+    margin-top: 80px;
+}
+.txts5 {
+    width:50%;
+    height:100%;
+    padding:60px;
+    display: block;
+    background-color: white;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    
+}
+.t7 {
+    font-size: 45px;
+    color: rgb(26, 25, 24);
+    line-height:80px;
+    font-weight: bold;
+    
+}
+.t8{
+    font-size: 16px;
+    font-weight:500;
+    color: darkslategrey;
+}
+.t9{
+    font-size: 16px;
+    font-weight:500;
+    color: darkslategrey;
+}
+.img5{
+    height:600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:50%;
+    border-radius: 20px;
+    background-image: url('../Assets/img5.png');
+
+}
+.btn4{
+    margin-top:80px;
+}
+.btn4 input{
+    width:150px;
+    height:60px;
+    background-color: #df4566;
+    color:white;
+    border: none;
+    border-radius: 50px;
+    padding:7px;
+    cursor: pointer;
+}

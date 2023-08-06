@@ -1,0 +1,88 @@
+.Footer{
+    width:100%;
+    height:400px;
+    margin-top:80px;
+    background-color: #ff436c;
+    display: flex;
+}
+.paragrp{
+    width:240px;
+    height:54px;
+    font-size: 17px;
+    color:white;
+}
+.Lfoot{
+    width:40%;
+    height:400px;
+    padding:120px;
+}
+.socialmedia{
+    justify-content: space-between;
+    display: flex;
+    margin-top:50px;
+    padding:3px;
+    width:150px;
+    height:40px;
+}
+.socialmedia img{
+    width:18px;
+    cursor:pointer;
+    height:18px;
+    border-radius: 50px;
+    margin: 10px;
+    justify-content: space-between;
+}
+.Rfoot{
+    margin-top: 40px;
+    width:60%;
+    height:400px;
+    display: flex;
+    padding:30px;
+}
+.HomeF{
+    padding-top:20px;
+    margin:20px;
+    width:25%;
+    height:300px;
+    align-items: center;;
+}
+.HomeF ul li{
+    list-style: none;
+    padding-top:10px;
+    font-size: 17px;
+    color:white;
+    cursor:pointer;
+}
+.Help{
+    margin:20px;
+    width:25%;
+    height:300px;
+    padding-top:20px;
+    align-items: center;
+}
+.Help ul li{
+    list-style: none;
+    padding-top:10px;
+    font-size: 17px;
+    color:white;
+    cursor:pointer;
+}
+.GetApp{
+    margin:20px;
+    width:25%;
+    height:300px;
+    padding-top:20px;
+    align-items: center;
+}
+.GetApp ul li{
+    list-style: none;
+    padding-top:10px;
+    font-size: 17px;
+    color:white;
+    cursor:pointer;
+}
+ul h4{
+    color:white;
+    font-size: 26px;
+}
+

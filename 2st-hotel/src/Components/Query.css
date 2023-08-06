@@ -1,0 +1,61 @@
+.two_div{
+    margin-top:80px;
+    display:flex;
+    width:100%;
+    height:600px;
+    background-color: rgb(21, 23, 23);
+}
+.txts6 {
+    width:50%;
+    height:100%;
+    padding:20px;
+    padding-left: 60px;
+    color:white;
+    display: block;
+    background-color: rgb(21, 23, 23);
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    
+}
+span{
+    color:red;
+}
+.t10 {
+    font-size: 45px;
+    color: white;
+    line-height:80px;
+    font-weight: bold;
+}
+.t11{
+    font-size: 16px;
+    font-weight:500;
+    color:grey;
+}
+.Qry{
+    padding:10px;
+}
+.query_txt{
+    background-color: white;
+    height: 220px;
+    width:100%;
+    margin-top:35px;
+    padding:40px;
+    border-radius: 5px;
+}
+.lg_txt{
+    display: flex;
+    border-radius: 8px;
+    justify-content: space-between;
+}
+
+.same_txt{
+    background-color: white;
+    height: 100px;
+    width:100%;
+    margin-top:35px;
+    padding:40px;
+    border-radius: 5px;
+    display: flex;
+    border-radius: 8px;
+    justify-content: space-between;
+}
